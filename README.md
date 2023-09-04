@@ -5,4 +5,4 @@ Built a search engine using the natural language processing framework nltk that 
 Keywords: NLTK, PySpark, SQL, Apache Spark, TF-IDF, Stop words removal
 
 ### Note
-Please do not copy the code. Feel free to star it if you find it informative.
+Please do not copy the code. Feel free to star the repository if you find it informative.
